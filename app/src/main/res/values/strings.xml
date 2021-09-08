@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MsgApp</string>
+    <string name="buscar">Buscar</string>
 </resources>
